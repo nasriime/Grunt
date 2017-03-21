@@ -1,11 +1,4 @@
-// function myFunc(num) {
-//     for (num;num > 0; num--) {
-//         num *= num;
-//         console.log(num);
-//     }
-// }
-//
-// myFunc(8);
+
 
 
 function fact(num)
